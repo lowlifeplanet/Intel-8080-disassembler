@@ -1,10 +1,13 @@
-#Intel 8080 Disassembler#
+# Intel 8080 Disassembler
+A basic disassembler for the Intel 8080 assembly language
 
-##About##
+
+
+## About
 This project revolves around producing a quality disassembler for the Intel 8080. This is a personal project of mine, that I'm pursuing as a way to gain a deeper understanding of the C programming language, and a deeper understanding of lower level concepts revolving around the CPU. 
 
 
-##Planned features##
+## Planned features
 1. Completion of project (obviously)
 2. Add parameters for outputting disassembly results to stdout, or to a .asm file
 3. Possibly add basic debugging capabilities in the future.
